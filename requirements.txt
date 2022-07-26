@@ -1,0 +1,8 @@
+tabulate
+sty
+pyshorteners
+amino.fix==2.2.12
+bs4
+requests
+secmail
+pyfiglet
